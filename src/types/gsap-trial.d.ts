@@ -1,1 +1,1 @@
-declare module "gsap-trial/SplitText";
+rm src/types/gsap.d.ts
