@@ -1,1 +1,0 @@
-rm src/types/gsap.d.ts
